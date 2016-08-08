@@ -2,6 +2,8 @@
 http://www.coderpanda.com/jms-tutorial/
 eg: http://www.coderpanda.com/jms-tutorial-jms-example/
 
+https://www.youtube.com/watch?v=2_FTyb0MBc4&list=PL4266926E3CA39410&index=2
+
 JMS is the technique used in J2EE technology  for an application to communicate with other applications.
 An application can communicate with any number of applications using JMS.This communication is loosely coupled.
 Because the applications needed to communicate are not connecting each other directly . Instead , those applications 
